@@ -39,3 +39,7 @@ Array of paths to resolve. Paths are used to find SVG files. Default: `[]`
 #### options.func
 
 The name of the function to use in CSS. Default: `svg`
+
+### options.skipShapeWarning
+
+Skip adding additional attributes to SVG files that consist of multiple shapes. Default: `false`

@@ -1,6 +1,6 @@
 {
   "name": "postcss-embed-svg",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "PostCSS plugin which allows you to control the SVG's fill, stroke, opacity etc.",
   "keywords": [
     "postcss",
